@@ -7,11 +7,19 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0-beta1",
+    "chart.js": "^3.8.0",
     "core-js": "^3.8.3",
+    "sweetalert2": "^11.4.20",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-chartjs": "^4.1.1",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.1.12",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
